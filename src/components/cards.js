@@ -14,7 +14,7 @@ export default class NotesList extends Component {
           <nav className="navbar navbar-dark bg-dark p-0 animate__animated animate__fadeInDown">
             <div className="container-fluid">
               <span className="navbar-text">
-                <h5>PROYECTO SOLAR BETA</h5>
+                <h5>PROYECTO BETA</h5>
               </span>
             </div>
           </nav>
